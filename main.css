@@ -115,3 +115,46 @@
 .vbnr {
     margin-left: 206px;
 }
+
+.aris {
+    font-family: Proxima Nova;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 128.6%;
+    letter-spacing: 4%;
+    color: rgb(92, 81, 92);
+    /* text-align: center; */
+    padding-top: 65px;
+    padding-left: 152px;
+}
+
+.for {
+    display: flex;
+    margin-top: 4%;
+    margin-left: 200px;
+    width: 1101px;
+    height: 182px;
+    border-radius: 10px;
+    background: rgb(255, 255, 255);
+}
+
+.nm-btn {
+    padding-left: 61px;
+    padding-top: 17px;
+    color: rgb(255, 255, 255);
+    font-family: Proxima Nova;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0%;
+    text-decoration: none;
+}
+
+.begzod {
+    margin-left: 71px;
+    margin-top: 83px;
+    width: 200px;
+    height: 50px;
+    border-radius: 4px;
+    background: rgb(255, 188, 81);
+}
