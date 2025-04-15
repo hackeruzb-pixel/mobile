@@ -1,11 +1,160 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-.container{
+.container {
     width: 1715px;
     margin: 0 auto;
     padding: 0 15px;
+}
+
+.section-ch {
+    background-image: url('./images/back.svg');
+    width: 1500px;
+    height: 996px;
+}
+
+.section-ch-left {
+    padding-top: 541px;
+    padding-left: 200px;
+    color: rgb(255, 255, 255);
+    font-family: Proxima Nova;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 128.6%;
+    letter-spacing: 10%;
+}
+
+.section-ch-txt {
+    padding-top: 39px;
+    padding-left: 200px;
+    color: rgb(255, 255, 255);
+    font-family: Proxima Nova;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 128.6%;
+    letter-spacing: 4%;
+    text-align: left;
+}
+
+.disple {
+    display: flex;
+}
+
+.imgf {
+    margin-top: 210px;
+    padding-left: 700px;
+
+}
+
+.imgf-one {
+    padding-left: 391px;
+    margin-top: 20px;
+}
+
+.section-ch-right {
+    width: 50%;
+}
+
+.section-chtxt {
+    margin-top: 37px;
+    color: rgb(255, 255, 255);
+    font-family: Proxima Nova;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 128.6%;
+    letter-spacing: 4%;
+    text-align: center;
+}
+
+.section-chtxtr {
+    margin-top: 11px;
+    color: rgb(255, 188, 81);
+    font-family: Proxima Nova;
+    font-size: 21.12px;
+    font-weight: 900;
+    line-height: 128.6%;
+    letter-spacing: 7.5%;
+    text-transform: uppercase;
+}
+
+.section-chtxtc {
+    padding-top: 4px;
+    color: rgb(255, 188, 81);
+    font-family: Proxima Nova;
+    font-size: 14.08px;
+    font-weight: 700;
+    line-height: 128.6%;
+    letter-spacing: 4%;
+}
+
+.sdfg {
+    width: 600px;
+    margin-left: 39%;
+    text-align: center;
+}
+
+.chingiz {
+    width: 700px;
+    margin-left: -5%;
+    display: flex;
+}
+
+.dispimg {
+    position: absolute;
+    left: 74%;
+    top: 46%;
+}
+
+.vbn {
+    margin-left: 1065px;
+}
+
+.vbnr {
+    margin-left: 206px;
+}
+
+.aris {
+    font-family: Proxima Nova;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 128.6%;
+    letter-spacing: 4%;
+    color: rgb(92, 81, 92);
+    /* text-align: center; */
+    padding-top: 65px;
+    padding-left: 152px;
+}
+
+.for {
+    display: flex;
+    margin-top: 4%;
+    margin-left: 200px;
+    width: 1101px;
+    height: 182px;
+    border-radius: 10px;
+    background: rgb(255, 255, 255);
+}
+
+.nm-btn {
+    padding-left: 61px;
+    padding-top: 17px;
+    color: rgb(255, 255, 255);
+    font-family: Proxima Nova;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0%;
+    text-decoration: none;
+}
+
+.begzod {
+    margin-left: 71px;
+    margin-top: 83px;
+    width: 200px;
+    height: 50px;
+    border-radius: 4px;
+    background: rgb(255, 188, 81);
 }
